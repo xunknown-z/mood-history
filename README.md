@@ -30,3 +30,12 @@ moon-history/
     ├── package.json
     └── vite.config.ts
 ```
+
+## frontend
+### React + TS / Vite 사용
+
+Vite를 사용하여 frontend 폴더 생성
+**질문이 나오면 순서대로: React 선택 -> TypeScript 선택 (또는 JavaScript)**
+```bash
+npm create vite@latest frontend -- --template react-ts
+```
